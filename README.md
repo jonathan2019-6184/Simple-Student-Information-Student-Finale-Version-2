@@ -1,1 +1,5 @@
-# Simple-Student-Information-Student-Finale-Version-2
+# Tinoy-SSISversion2
+
+Hi! Kopya ka?
+
+Sabihin mo "Salamat Master!"
