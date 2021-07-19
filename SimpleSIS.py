@@ -1,5 +1,5 @@
-
-##PAYUSAN, JUSTINE B.##
+#Jonathan L. Tinoy Jr
+#BSSTAT
 
 from tkinter import*
 import tkinter as ssis
